@@ -1,2 +1,0 @@
-# Paynet
-vpn
